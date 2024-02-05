@@ -1,1 +1,1 @@
-{"moe":"version1"}
+{"moe":"version2"}
